@@ -17,7 +17,7 @@ Inspired by Andrej Karpathy's framing that agents get better when we give them r
 
 ```bash
 mkdir -p ~/.codex/skills/prompt-fixer
-curl -L https://raw.githubusercontent.com/fattboy/prompt-fixer-codex-skill/main/SKILL.md \
+curl -L https://raw.githubusercontent.com/tylerpham59/prompt-fixer-codex-skill/main/SKILL.md \
   -o ~/.codex/skills/prompt-fixer/SKILL.md
 ```
 

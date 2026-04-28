@@ -2,7 +2,7 @@
 
 A Codex skill for fixing the "skill issue" before the agent starts working.
 
-Inspired by Andrej Karpathy's famous quote: “If Codex can’t build it, maybe the problem isn’t Codex. Maybe it’s a skill issue.”, `prompt-fixer` turns rough prompts into execution-ready prompts with clear goals, missing-context checks, sharper alternatives, success criteria, verification steps, and an approval gate.
+Inspired by Andrej Karpathy's famous quote: “If the agent can’t build it, maybe the problem isn’t the agent. Maybe it’s a skill issue.”, `prompt-fixer` turns rough prompts into execution-ready prompts with clear goals, missing-context checks, sharper alternatives, success criteria, verification steps, and an approval gate.
 
 ## What It Does
 
